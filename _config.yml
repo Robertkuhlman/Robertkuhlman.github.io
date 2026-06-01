@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : [my project](file:///C:/Users/p1user/Downloads/Robert%20kuhlman.pdf)
   location         : "Earth"
   employer         : "Richiland high school"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "Robert.kuhlman@students.rsd.edu" 
 
   # Academic websites
   academia         : # URL
