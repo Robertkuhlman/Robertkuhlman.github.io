@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-[my project](file:///C:/Users/p1user/Downloads/Robert%20kuhlman.pdf)
 
 RobertKuhlman
 ABOUT ME
