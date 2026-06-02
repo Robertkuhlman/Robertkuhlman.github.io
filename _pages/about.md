@@ -9,15 +9,15 @@ redirect_from:
 
 [my project](file:///C:/Users/p1user/Downloads/Robert%20kuhlman.pdf)
 
-#RobertKuhlman
-## ABOUT ME
+RobertKuhlman
+ABOUT ME
 I am Robert kuhlman i am a student in the RHS programe 
 and is intrested in computer science.
-## SKILLS
+ SKILLS
 Cybersecrity
 creative thinking
 Problem solving
-## CAREER GOALS
+CAREER GOALS
 My goal is to lurn about this so i can presue the cybersecrity
 side of the altomotive program.
 Robert kuhlman
